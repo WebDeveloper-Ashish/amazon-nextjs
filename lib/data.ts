@@ -761,7 +761,7 @@ const data: Data = {
     {
       title: "Best Deals",
       buttonCaption: "See More",
-      image: "/images/b2.webp",
+      image: "/images/banner2.jpg",
       url: "/search?category=Wrist Watches",
       isPublished: true,
     },
