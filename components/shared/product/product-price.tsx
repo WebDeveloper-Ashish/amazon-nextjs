@@ -7,7 +7,6 @@ const ProductPrice = ({
   className,
   listPrice = 0,
   isDeal = false,
-  forListing = true,
   plain = false,
 }: {
   price: number
